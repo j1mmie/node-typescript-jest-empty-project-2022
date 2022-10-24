@@ -1,4 +1,4 @@
-# typescript-empty-project-2022
+# node-typescript-jest-empty-project-2022 
 
 Includes:
  - Node 18.6
